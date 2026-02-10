@@ -8,7 +8,7 @@ print (cars[2])
 cars.append("BMW")
 # show output
 print (cars)
-# insert toyota at index 2
+# insert toyota at index 2                                        
 cars . insert(2, "toyota")
 # show output
 print (cars)
